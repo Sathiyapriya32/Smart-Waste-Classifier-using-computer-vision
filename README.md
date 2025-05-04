@@ -13,16 +13,27 @@ A real-time smart waste detection system that uses a trained model to classify w
 
 Resources/
 ├── background.png
+
 ├── arrow.png
+
 ├── Waste/
+
 │ ├── 1.png to 8.png
+
 ├── Bins/
+
 │ ├── 1.png (Recyclable)
+
 │ ├── 2.png (Hazardous)
+
 │ ├── 3.png (Food)
+
 │ └── 4.png (Residual)
+
 └── Model/
+
 ├── keras_model.h5
+
 └── labels.txt
 
 ## 🚀 How It Works
